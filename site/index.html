@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="coeurgence — research, strategy, learning">
+  <title>coeurgence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <aside class="nav-panel" aria-label="Primary navigation">
+    <a class="brand" href="#home">coeurgence</a>
+    <nav class="nav-list">
+      <a href="#origins" class="nav-link"><span class="nav-icon">&lt;&lt;</span><span class="nav-label">origins</span></a>
+      <a href="#approach" class="nav-link"><span class="nav-icon">||</span><span class="nav-label">approach</span></a>
+      <a href="#work" class="nav-link"><span class="nav-icon">|&gt;</span><span class="nav-label">work with us</span></a>
+      <a href="#vision" class="nav-link"><span class="nav-icon">&gt;&gt;</span><span class="nav-label">vision</span></a>
+    </nav>
+  </aside>
+
+  <main>
+    <section id="home" class="section hero">
+      <div class="hero-inner">
+        <p class="wordmark">coeurgence</p>
+        <h1 id="hero-lines" class="three-lines"></h1>
+        <p id="tagline" class="tagline"></p>
+        <div class="current-mark" aria-hidden="true">
+          <svg viewBox="0 0 720 120">
+            <path d="M8 62 C115 10 175 20 260 56 C354 96 425 96 505 63 C584 31 634 36 700 60" />
+            <path d="M8 62 C98 97 176 95 258 67 C351 34 427 35 505 63 C581 91 633 85 700 60" />
+            <path d="M8 62 C110 63 192 62 278 62 C383 62 486 62 700 60" />
+          </svg>
+        </div>
+        <p id="intro" class="intro"></p>
+      </div>
+    </section>
+
+    <section id="origins" class="section essay-section">
+      <p class="section-kicker">&lt;&lt; origins</p>
+      <h2 id="origins-title"></h2>
+      <div id="origins-body" class="body-copy"></div>
+    </section>
+
+    <section id="approach" class="section essay-section tinted">
+      <p class="section-kicker">|| approach</p>
+      <h2 id="approach-title"></h2>
+      <div id="approach-body" class="body-copy"></div>
+      <div class="principle">
+        <p class="principle-label">guiding principle</p>
+        <h3 id="principle-title"></h3>
+        <p id="principle-body"></p>
+      </div>
+    </section>
+
+    <section id="work" class="section essay-section">
+      <p class="section-kicker">|&gt; work with us</p>
+      <h2 id="work-title"></h2>
+      <p id="work-intro" class="body-copy"></p>
+      <div id="services" class="services"></div>
+      <a id="contact-link" class="contact-link" href="#"><span>begin a conversation</span><span aria-hidden="true">↗</span></a>
+    </section>
+
+    <section id="vision" class="section essay-section vision">
+      <p class="section-kicker">&gt;&gt; vision</p>
+      <h2 id="vision-title"></h2>
+      <div id="vision-body" class="body-copy"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>coeurgence ltd.</p>
+    <p id="footer-line"></p>
+    <p>© <span id="year"></span></p>
+  </footer>
+
+  <script src="content.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
