@@ -1,5 +1,8 @@
-// EDIT WEBSITE TEXT HERE.
-// Change text inside quotation marks; keep commas and quotation marks in place.
+// ==========================================================
+// EDIT NORMAL WEBSITE TEXT HERE.
+// Change text inside quotation marks.
+// Keep commas and quotation marks in place.
+// ==========================================================
 
 const siteContent = {
   hero: {
@@ -16,6 +19,8 @@ const siteContent = {
       "these experiences shaped a practice grounded in curiosity, cultural understanding, and the belief that meaningful decisions begin with a clear view of context.",
       "the name joins cœur, the french word for heart, with emergence. it reflects the belief that meaningful change grows through relationships, evidence, and shared intention."
     ],
+
+    // Upload matching logo files to site/assets/logos/
     engagements: [
       { name: "deloitte", file: "assets/logos/deloitte.png" },
       { name: "unodc", file: "assets/logos/unodc.png" },
