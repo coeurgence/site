@@ -1,19 +1,29 @@
-// edit this file to change the website text.
-// keep quotation marks and commas in place.
+// EDIT WEBSITE TEXT HERE.
+// Change text inside quotation marks; keep commas and quotation marks in place.
 
 const siteContent = {
   hero: {
     lines: ["research.", "strategy.", "learning."],
     tagline: "many paths. shared direction.",
-    intro: "coeurgence helps you navigate complexity with research, strategy, and learning. every engagement begins with understanding and grows through collaboration, curiosity, and thoughtful action."
+    intro:
+      "coeurgence helps you navigate complexity with research, strategy, and learning. every engagement begins with understanding and grows through collaboration, curiosity, and thoughtful action."
   },
 
   origins: {
     title: "every journey begins somewhere.",
     paragraphs: [
-      "every organization has a story, and every challenge has a history. coeurgence was created from the belief that understanding both leads to better decisions.",
-      "our work draws on experience across humanitarian response, public policy, research, and international development. we bring these perspectives together to help you move through complexity with clarity and purpose.",
+      "coeurgence grew from work across humanitarian response, public policy, research, international development, and institutional strategy.",
+      "these experiences shaped a practice grounded in curiosity, cultural understanding, and the belief that meaningful decisions begin with a clear view of context.",
       "the name joins cœur, the french word for heart, with emergence. it reflects the belief that meaningful change grows through relationships, evidence, and shared intention."
+    ],
+    engagements: [
+      { name: "deloitte", file: "assets/logos/deloitte.png" },
+      { name: "unodc", file: "assets/logos/unodc.png" },
+      { name: "unfpa pacific", file: "assets/logos/unfpa-pacific.png" },
+      { name: "united nations", file: "assets/logos/united-nations.png" },
+      { name: "mcmaster university", file: "assets/logos/mcmaster.png" },
+      { name: "cmctf", file: "assets/logos/cmctf.png" },
+      { name: "idrf", file: "assets/logos/idrf.png" }
     ]
   },
 
@@ -24,12 +34,14 @@ const siteContent = {
       "from there, we work with you to shape practical strategies grounded in evidence and designed for the realities of implementation."
     ],
     principleTitle: "diffacile",
-    principleBody: "diffacile is the practice of finding ease within difficulty. it reflects a way of meeting complexity with patience, faith, curiosity, and the belief that every challenge contains the possibility of movement."
+    principleBody:
+      "diffacile is the practice of finding ease within difficulty. it reflects a way of meeting complexity with patience, faith, curiosity, and the belief that every challenge contains the possibility of movement."
   },
 
   work: {
     title: "let’s build what matters.",
-    intro: "we shape each engagement around your context, your questions, and the decisions ahead.",
+    intro:
+      "we shape each engagement around your context, your questions, and the decisions ahead.",
     services: [
       { title: "research", text: "qualitative research, policy analysis, literature reviews, interviews, focus groups, and evidence synthesis." },
       { title: "strategy", text: "programme design, strategic planning, theories of change, and adaptive roadmaps." },
