@@ -16,8 +16,8 @@ const siteContent = {
     title: "every journey begins somewhere.",
     paragraphs: [
       "coeurgence grew from work across humanitarian response, public policy, research, international development, and institutional strategy.",
-      "these experiences shaped a practice grounded in curiosity, cultural understanding, and the belief that meaningful decisions begin with a clear view of context.",
-      "the name joins cœur, the french word for heart, with emergence. it reflects the belief that meaningful change grows through relationships, evidence, and shared intention."
+      "these experiences shape a practice grounded in curiosity, cultural understanding, and the belief that meaningful decisions begin with a clear view of context.",
+      "the name joins cœur, the french word for heart, with emergence - reflecting a core belief that meaningful change grows through relationships, evidence, and shared intention."
     ],
 
     // Upload matching logo files to site/assets/logos/
@@ -46,12 +46,12 @@ const siteContent = {
   work: {
     title: "let’s build what matters.",
     intro:
-      "we shape each engagement around your context, your questions, and the decisions ahead.",
+      "every engagement is shaped around your context, your questions, and the decisions ahead.",
     services: [
       { title: "research", text: "qualitative research, policy analysis, literature reviews, interviews, focus groups, and evidence synthesis." },
       { title: "strategy", text: "programme design, strategic planning, theories of change, and adaptive roadmaps." },
       { title: "learning", text: "monitoring, evaluation and learning, facilitation, validation, and knowledge products." },
-      { title: "engagement", text: "stakeholder dialogue, workshops, co-design, and culturally responsive consultation." }
+      { title: "engagement", text: "stakeholder dialogue, workshops, co-design, campaign, and culturally responsive consultation." }
     ],
     email: "hello@coeurgence.org"
   },
@@ -59,8 +59,8 @@ const siteContent = {
   vision: {
     title: "possibility grows through understanding.",
     paragraphs: [
-      "we believe meaningful change begins with attention to people, place, history, and purpose.",
-      "by bringing together evidence, relationships, and shared direction, we help create the conditions for ideas to grow into lasting impact."
+      "meaningful change begins with attention to people, place, history, and purpose.",
+      "by bringing together evidence, relationships, and shared direction, we help create the conditions for your ideas to ripple into lasting impact."
     ]
   },
 
