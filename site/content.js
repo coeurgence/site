@@ -33,7 +33,7 @@ const siteContent = {
     paragraphs: [
       "there is often pressure to move quickly - to produce outputs, recommendations, frameworks, strategies, and activities."
       "many problems persist because they do not get to the root - the relationships between people, histories, and place have not been fully understood."
-      "coeurgence begins somewhere quieter.
+      "coeurgence begins somewhere quieter."
       "listening before advising."
       "understanding before designing - your culture, your timelines, your vision."
       "identifying patterns, to shape strategies grounded in global best practices, evidence and in support of the realities of implementation."
