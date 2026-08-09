@@ -17,7 +17,7 @@ const siteContent = {
       "the name joins cœur, the french word for heart, with emergence. it reflects the belief that meaningful change grows through relationships, evidence, and shared intention."
     ],
     engagements: [
-      { name: "deloitte", file: "assets/logos/deloitte.png" },
+      { name: "deloitte", file: "assets/logos/deloitte.svg" },
       { name: "unodc", file: "assets/logos/unodc.png" },
       { name: "unfpa pacific", file: "assets/logos/unfpa.png" },
       { name: "united nations", file: "assets/logos/unitednations.svg" },
