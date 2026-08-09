@@ -6,8 +6,7 @@ const siteContent = {
     lines: ["research.", "strategy.", "learning."],
     tagline: "many paths. meaningful direction.",
     intro:
-      "coeurgence helps you navigate the current while understanding its depth. 
-      "through intentional engagements, coeurgence works alongside people and organizations to understand history, culture, systems and goals - cultivating conditions from which thoughtful, sustainable change can truly emerge."
+      "coeurgence helps you navigate the current while understanding its depth. through intentional engagements, coeurgence works alongside people and organizations to understand history, culture, systems and goals — cultivating conditions from which thoughtful, sustainable change can truly emerge."
   },
 
   origins: {
@@ -31,12 +30,12 @@ const siteContent = {
   approach: {
     title: "understanding comes first.",
     paragraphs: [
-      "there is often pressure to move quickly - to produce outputs, recommendations, frameworks, strategies, and activities."
-      "many problems persist because they do not get to the root - the relationships between people, histories, and place have not been fully understood."
-      "coeurgence begins somewhere quieter."
-      "listening before advising."
-      "understanding before designing - your culture, your timelines, your vision."
-      "identifying patterns, to shape strategies grounded in global best practices, evidence and in support of the realities of implementation."
+      "we're surrounded by pressure to move quickly, to produce outputs, recommendations, frameworks, strategies, and activities.",
+      "problems often persist because they do not get to the root. the relationships between people, histories, and place have not been fully understood.",
+      "coeurgence begins somewhere quieter.",
+      "listening before advising.",
+      "understanding before designing — your culture, your timelines, your vision.",
+      "identifying patterns to shape strategies grounded in global best practices, evidence, and the realities of implementation."
     ],
     principleTitle: "diffacile",
     principleBody:
@@ -44,9 +43,9 @@ const siteContent = {
   },
 
   work: {
-    title: "let’s build what matters.",
+    title: "intentional design.",
     intro:
-      "we shape each engagement around your context, your questions, and the decisions ahead.",
+      "every engagement is tailored to your context, your questions, and the decisions that lay ahead.",
     services: [
       { title: "research", text: "qualitative research, policy analysis, literature reviews, interviews, focus groups, and evidence synthesis." },
       { title: "strategy", text: "programme design, strategic planning, theories of change, and adaptive roadmaps." },
@@ -59,7 +58,7 @@ const siteContent = {
   vision: {
     title: "lasting change begins long before implementation.",
     paragraphs: [
-      "good work is less about imposing direction than discovering it - every strategy enters a story already in motion.",
+      "good work is less about imposing direction than discovering it. every strategy enters a story already in motion.",
       "by bringing together evidence, relationships, and shared direction, we help create the conditions for ideas to grow into lasting impact and possibility."
     ]
   },
