@@ -21,7 +21,7 @@ const siteContent = {
       { name: "unodc", file: "assets/logos/unodc.png" },
       { name: "unfpa pacific", file: "assets/logos/unfpa.png" },
       { name: "united nations", file: "assets/logos/unitednations.svg" },
-      { name: "mcmaster university", file: "assets/logos/mcmaster.png" },
+      { name: "mcmaster university", file: "assets/logos/mcmaster.svg" },
       { name: "cmctf", file: "assets/logos/cmctf.png" },
       { name: "idrf", file: "assets/logos/idrf.png" }
     ]
