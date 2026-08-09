@@ -45,14 +45,14 @@ const siteContent = {
   work: {
     title: "intentional design.",
     intro:
-      "every engagement is tailored to your context, your questions, and the decisions that lay ahead.",
+      "each engagement is tailored to your context, your questions, and the decisions that lay ahead.",
     services: [
-      { title: "research", text: "qualitative research, policy analysis, literature reviews, interviews, focus groups, and evidence synthesis." },
+      { title: "research", text: "qualitative research, policy analysis, literature reviews, interviews, best practices, and evidence synthesis." },
       { title: "strategy", text: "programme design, strategic planning, theories of change, and adaptive roadmaps." },
       { title: "learning", text: "monitoring, evaluation and learning, facilitation, validation, and knowledge products." },
       { title: "engagement", text: "stakeholder dialogue, workshops, co-design, and culturally responsive consultation." }
     ],
-    email: "hello@coeurgence.org"
+    email: "coeurgence@outlook.com"
   },
 
   vision: {
@@ -63,5 +63,5 @@ const siteContent = {
     ]
   },
 
-  footer: "research · strategy · learning"
+  footer: "research. strategy.learning. | coeurgence ltd. is a registered corportation in Canada."
 };
