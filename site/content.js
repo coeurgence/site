@@ -57,10 +57,10 @@ const siteContent = {
   },
 
   vision: {
-    title: "possibility grows through understanding.",
+    title: "lasting change begins long before implementation.",
     paragraphs: [
-      "we believe meaningful change begins with attention to people, place, history, and purpose.",
-      "by bringing together evidence, relationships, and shared direction, we help create the conditions for ideas to grow into lasting impact."
+      "good work is less about imposing direction than discovering it - every strategy enters a story already in motion.",
+      "by bringing together evidence, relationships, and shared direction, we help create the conditions for ideas to grow into lasting impact and possibility."
     ]
   },
 
