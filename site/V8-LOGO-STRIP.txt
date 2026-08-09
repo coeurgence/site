@@ -1,0 +1,18 @@
+COEURGENCE V8 — HORIZONTAL LOGO STRIP
+
+Changes:
+- past-engagement logos are smaller
+- one single horizontal scrolling row
+- no grid boxes
+- grayscale by default
+- full colour on hover
+- hidden scrollbar
+- trackpad/mouse wheel over the logo row scrolls horizontally
+- touch swiping works on mobile
+- subtle fade at left/right edges
+
+IN GITHUB REPLACE:
+- site/styles.css
+- site/script.js
+
+Everything else can stay exactly as it is.
