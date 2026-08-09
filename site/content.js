@@ -4,9 +4,9 @@
 const siteContent = {
   hero: {
     lines: ["research.", "strategy.", "learning."],
-    tagline: "many paths. shared direction.",
+    tagline: "many paths. meaningful direction.",
     intro:
-      "coeurgence helps you navigate complexity with research, strategy, and learning. every engagement begins with understanding and grows through collaboration, curiosity, and thoughtful action."
+      "coeurgence helps you navigate the current while understanding its depth. through intentional engagements, coeurgence works alongside people and organizations to understand history, culture, systems and goals - to cultivate the conditions from which thoughtful, sustainable change can truly emerge."
   },
 
   origins: {
