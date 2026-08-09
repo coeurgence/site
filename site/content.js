@@ -6,7 +6,8 @@ const siteContent = {
     lines: ["research.", "strategy.", "learning."],
     tagline: "many paths. meaningful direction.",
     intro:
-      "coeurgence helps you navigate the current while understanding its depth. through intentional engagements, coeurgence works alongside people and organizations to understand history, culture, systems and goals - to cultivate the conditions from which thoughtful, sustainable change can truly emerge."
+      "coeurgence helps you navigate the current while understanding its depth. 
+      "through intentional engagements, coeurgence works alongside people and organizations to understand history, culture, systems and goals - creating conditions from which thoughtful, sustainable change can truly emerge."
   },
 
   origins: {
