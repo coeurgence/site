@@ -7,13 +7,13 @@ const siteContent = {
     tagline: "many paths. meaningful direction.",
     intro:
       "coeurgence helps you navigate the current while understanding its depth. 
-      "through intentional engagements, coeurgence works alongside people and organizations to understand history, culture, systems and goals - creating conditions from which thoughtful, sustainable change can truly emerge."
+      "through intentional engagements, coeurgence works alongside people and organizations to understand history, culture, systems and goals - cultivating conditions from which thoughtful, sustainable change can truly emerge."
   },
 
   origins: {
     title: "every journey begins somewhere.",
     paragraphs: [
-      "coeurgence grew from work across humanitarian response, public policy, research, international development, and institutional strategy.",
+      "coeurgence grew from work across humanitarian programming and design, public policy, research, security, international development, and strategy.",
       "these experiences shaped a practice grounded in curiosity, cultural understanding, and the belief that meaningful decisions begin with a clear view of context.",
       "the name joins cœur, the french word for heart, with emergence. it reflects the belief that meaningful change grows through relationships, evidence, and shared intention."
     ],
@@ -31,8 +31,12 @@ const siteContent = {
   approach: {
     title: "understanding comes first.",
     paragraphs: [
-      "we begin by listening. we ask questions, explore context, and look for patterns that connect people, systems, and ideas.",
-      "from there, we work with you to shape practical strategies grounded in evidence and designed for the realities of implementation."
+      "there is often pressure to move quickly - to produce outputs, recommendations, frameworks, strategies, and activities."
+      "many problems persist because they do not get to the root - the relationships between people, histories, and place have not been fully understood."
+      "coeurgence begins somewhere quieter.
+      "listening before advising."
+      "understanding before designing - your culture, your timelines, your vision."
+      "identifying patterns, to shape strategies grounded in global best practices, evidence and in support of the realities of implementation."
     ],
     principleTitle: "diffacile",
     principleBody:
