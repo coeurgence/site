@@ -30,9 +30,9 @@ const siteContent = {
   approach: {
     title: "understanding comes first.",
     paragraphs: [
-      "we're surrounded by pressure to move quickly, to produce outputs, recommendations, frameworks, strategies, and activities.",
-      "problems often persist because they do not get to the root. the relationships between people, histories, and place have not been fully understood.",
-      "coeurgence begins somewhere quieter.",
+      "we're surrounded by pressure to move quickly and deliver, stuck in a cycle of productivity from outputs, to recommendations, frameworks, strategies, and activities.",
+      "problems often persist because they do not get to the root.",
+      "coeurgence shifts the dynamic.",
       "listening before advising.",
       "understanding before designing — your culture, your timelines, your vision.",
       "identifying patterns to shape strategies grounded in global best practices, evidence, and the realities of implementation."
