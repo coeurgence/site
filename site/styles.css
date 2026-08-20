@@ -311,3 +311,19 @@ footer {
     max-height: 25px !important;
   }
 }
+/* keep content.js paragraph entries as separate thoughts */
+.section-copy p,
+#approach-body p,
+#origins-body p,
+#vision-body p {
+  display: block;
+  width: 100%;
+  margin: 0 0 1.35rem 0;
+}
+
+.section-copy p:last-child,
+#approach-body p:last-child,
+#origins-body p:last-child,
+#vision-body p:last-child {
+  margin-bottom: 0;
+}
